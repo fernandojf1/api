@@ -1,7 +1,7 @@
 {
-"Contato": [
+"contatos": [
 {
-"idContato": 1,
+"id": 1,
 "nome": "Helana Sanches",
 "email": "helenasanches@hotmail.com",
 "favorito": true,
